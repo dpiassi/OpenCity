@@ -1,0 +1,6 @@
+[submodule "MetaverseClient"]
+	path = MetaverseClient
+	url = https://github.com/dpiassi/MetaverseClient.git
+[submodule "MetaverseServer"]
+	path = MetaverseServer
+	url = https://github.com/dpiassi/MetaverseServer.git
