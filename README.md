@@ -1,5 +1,7 @@
 # OpenCity
 
+![3D city screenshot](Screenshot.png "Screenshot")
+
 ## Introdução
 Somos o squad 12, LEPoli, composto pelo Daniel Piassi, Guilherme Piffer, Luis Silva e o Marcio Junior. Nosso case é a **Gamificação do Open Finance: Desenvolva sua cidade no Metaverso para conquistar seus sonhos na vida real!** Propusemos o desenvolvimento de um game mobile 3D do gênero simulação totalmente integrado aos eventos da jornada do usuário no Open Finance.
 
